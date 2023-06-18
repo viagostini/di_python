@@ -1,6 +1,7 @@
 kink==0.6.6
 fastapi==0.97.0
 uvicorn[standard]==0.22.0
+pydantic==1.10.9
 black==23.3.0
 ruff==0.0.272
 pytest==7.3.2
